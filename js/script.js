@@ -24,5 +24,12 @@ $(document).ready(function(){
         $(".product").show();
         $(this).hide();
     })
+    //portfolio
+    $(".pic").mouseenter(function(){
+        $(".portfolio").show();
+    })
+    $(".pic").mouseenter(function(){
+        $(".portfolio").hide();
+    })
 
 })
