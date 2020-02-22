@@ -41,7 +41,7 @@ p{
     text-align: center;
 }
 .pics{
-    padding-right: 2%;
+    margin-right: 20px;
 }
 .contact{
     background-image: url(/images/backgrounds/c_image.jpg);
@@ -51,6 +51,7 @@ p{
     padding-bottom: 20px;
     text-align: center;
     color: white;
+    height: 560px;
    /* background: transparent;*/
 
 }
@@ -63,15 +64,15 @@ p{
     background: transparent;
     color: white;
 }
-#submit{
-    background: transparent;
-    color: white;
 
-}
 #text{
     background: transparent;
     color: white;
 }
 #submit{
     text-align: center;
+    padding-top: 10px;
+}
+.footer{
+    color: black;
 }
