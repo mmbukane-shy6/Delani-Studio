@@ -53,6 +53,8 @@ p{
     background-repeat: no-repeat;
     padding-top: 20px;
     padding-bottom: 20px;
+    text-align: center;
+    color: white;
    /* background: transparent;*/
 
 }
@@ -62,10 +64,14 @@ p{
 }
 #mail{
     background: transparent;
+    color: white;
 }
 #submit{
     background: transparent;
+    color: white;
+
 }
 #text{
     background: transparent;
+    color: white;
 }
