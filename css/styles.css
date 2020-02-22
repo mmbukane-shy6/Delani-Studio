@@ -56,3 +56,16 @@ p{
    /* background: transparent;*/
 
 }
+#name{
+    background: transparent;
+    color: white;
+}
+#mail{
+    background: transparent;
+}
+#submit{
+    background: transparent;
+}
+#text{
+    background: transparent;
+}
