@@ -41,8 +41,17 @@ p{
     text-align: center;
 }
 
-.class{
+.pics{
     height: 50%;
     width: 50%;
     margin-top: 40px;
+}
+
+.contact{
+    background-image: url(/images/backgrounds/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
 }
