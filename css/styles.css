@@ -40,13 +40,9 @@ p{
 .do{
     text-align: center;
 }
-
 .pics{
-    height: 50%;
-    width: 50%;
-    margin-top: 40px;
+    padding-right: 2%;
 }
-
 .contact{
     background-image: url(/images/backgrounds/c_image.jpg);
     background-size: cover;
@@ -58,6 +54,7 @@ p{
    /* background: transparent;*/
 
 }
+
 #name{
     background: transparent;
     color: white;
@@ -74,4 +71,7 @@ p{
 #text{
     background: transparent;
     color: white;
+}
+#submit{
+    text-align: center;
 }
