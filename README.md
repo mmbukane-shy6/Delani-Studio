@@ -11,6 +11,9 @@ Sheila Egeidza
 
 *Must have a github account
 
+### BDD
+<img src="/images/backgrounds/h_img.jpg"/>
+
 ### TECHNOLOGY USED
 *HTML
 
@@ -22,4 +25,9 @@ Sheila Egeidza
 
 *JQUERY
 
-### 
+### LIVE LINK
+*
+
+### CONTACT INFO
+
+*Email address:sheilaegeidza@gmail.com
