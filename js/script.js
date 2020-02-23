@@ -81,9 +81,11 @@ $(document).ready(function(){
         var text=$("#text").val();
         var key = '43ab10333d46e19325f96d210ed40c49-us5';
         if(name=="" || mail=="" || text==""){
-            alert("please make sure you have filled in the form correctly")
+            alert("hi" + " " +name + " " +"we have recieved Your message .Thank you for reaching out to us")
+
         }else{
-            alert("hi" + name +"we have recieved rour message .Thank you for reaching out to us")
+            alert("please make sure you have filled in the form correctly")
+ 
         }
 
     })
