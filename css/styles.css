@@ -64,7 +64,7 @@ p{
 }
 #mail{
     background: transparent;
-    color: black;
+    color: white;
 }
 
 #text{
@@ -99,6 +99,8 @@ p{
     display: none;
 }
 
-
+.pics{
+    display:inline-block;
+}
 
 
