@@ -94,6 +94,7 @@ p{
     
 }
 .portfolio .hover{display: none;}
+
 #design, #dev, #product{
     display: none;
 }
