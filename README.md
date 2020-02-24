@@ -26,7 +26,7 @@ Sheila Egeidza
 *JQUERY
 
 ### LIVE LINK
-*
+*https://mmbukane-shy6.github.io/Delani-Studio/
 
 ### CONTACT INFO
 
