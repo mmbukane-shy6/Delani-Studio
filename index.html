@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link href="/css/bootstrap.min.css" rel="stylesheet" type=text/css> <link href="/css/styles.css" rel="stylesheet"
+    <link href="/css/bootstrap.min.css" rel="stylesheet" type=text/css> <link href="/css/styles.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Karla&display=swap" rel="stylesheet">
+
         type=text/css> <title>Delani</title>
 </head>
 
@@ -55,12 +57,12 @@
             <br>
             <br>
             ..<div class="container">
-                <div class="row">
-                    <div class="col-md-4">
-                        <img src="/images/services_icons/design_icon.png">
+                <div class="row whatwedo">
+                    <div class="col-md-4 ">
+                        <img class="design" src="/images/services_icons/design_icon.png">
 
                         <h3>DESIGN</h3>
-                        <p class="shy design-shy">Our design practice offers a full range of services including brand
+                        <p id="design" class="shy design-shy">Our design practice offers a full range of services including brand
                             strategy, interaction and visual design and user experience testing. Throughout your
                             project, our designers create and implement visual design and workflows, solitic user
                             feedback and work with you to make sure what gets built is what is needed.</p>
@@ -68,11 +70,11 @@
 
                     </div>
 
-                    <div class="col-md-4">
-                        <img src="images/services_icons/dev_icon.png">
+                    <div class="col-md-4 ">
+                        <img  class="dev" src="images/services_icons/dev_icon.png">
 
                         <h3>DEVELOPMENT</h3>
-                        <p class="shy development-shy">All engineers are fluent in the latest enterprise. mobile and web
+                        <p id="dev" class="shy development-shy">All engineers are fluent in the latest enterprise. mobile and web
                             development technologies. They collaborate with your team to write, and improve code on a
                             daily basis, using proven practices such as test-driven development and pair programming.
                         </p>
@@ -80,10 +82,10 @@
 
                     </div>
 
-                    <div class="col-md-4">
-                        <img src="images/services_icons/product_icon.png">
+                    <div class="col-md-4 ">
+                        <img class="product" src="images/services_icons/product_icon.png">
                         <h3>PRODUCT MANAGEMEMENT</h3>
-                        <P class="par product-shy">Planning and development is interactive. Because we are constantly
+                        <P id="product" class="par product-shy">Planning and development is interactive. Because we are constantly
                             coding and texting, the products we build are always ready to go live. This interative
                             process allows for changes as business requirements evolve.</P>
                     </div>
@@ -98,27 +100,27 @@
                             <img src="/images/portfolio/work4.jpg">
                             <p5 class="portfolio">DARK</p5>
                         </div>
-                        
+
                         <div class="col-md-3">
                             <img src="/images/portfolio/work3.jpg">
                             <p5 class="portfolio">ONTARIO</p5>
                         </div>
-                        
+
                         <div class="col-md-3">
                             <img src="/images/portfolio/work2.jpg">
 
                             <p5 class="portfolio">ART</p5>
                         </div>
-                        
-                            <div class="col-md-3">
-                                 <img src="/images/portfolio/work1.jpg">
-                                <P5 class="portfolio">CODE</P5>
 
-                            
+                        <div class="col-md-3">
+                            <img src="/images/portfolio/work1.jpg">
+                            <P5 class="portfolio">CODE</P5>
 
-                    </div>
-                        
-                          <div class="row">
+
+
+                        </div>
+
+                        <div class="row">
                             <div class="col-md-3">
                                 <img src="/images/portfolio/work5.jpg">
                                 <p5 class="portfolio">QUOTES</p5>
@@ -136,43 +138,43 @@
                                 <P5 class="portfolio">BAILEY WONGER</P5>
                             </div>
                         </div>
-                
-                </div>
-                <br>
-                <br>
-                <div class="contact">
-                    <div class="container">
-                        <h2>CONTACT US</h2>
-                        <div onsubmit="return validationForm()" class="form">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <input type="text" class="form-control" placeholder="Name" id="name">
-                                </div>
-                                <div class="col-md-6">
-                                    <input type="email" class="form-control" placeholder="Mail" id="mail">
-
-                                </div>
-                                <div class="col-sm-12" id="text">
-                                    <textarea type="text" class="form-control mt-5" placeholder="type your message"
-                                        id="text" cols="13" rows="13"></textarea>
-                                </div>
-                            </div>
-                            <br>
-                            <br>
-
-                            <div>
-                                <button type="submit" class="btn btn-primary" id="submit">Submit</button>
-                            </div>
-                        </div>
-
-                        </form>
 
                     </div>
                     <br>
+                    <br>
+                    <div class="contact">
+                        <div class="container">
+                            <h2>CONTACT US</h2>
+                            <div onsubmit="return validationForm()" class="form">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <input type="text" class="form-control" placeholder="Name" id="name">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input type="email" class="form-control" placeholder="Mail" id="mail">
 
-                    <div class="footer">
+                                    </div>
+                                    <div class="col-sm-12" id="text">
+                                        <textarea type="text" class="form-control mt-5" placeholder="type your message"
+                                            id="text" cols="13" rows="13"></textarea>
+                                    </div>
+                                </div>
+                                <br>
+                                <br>
 
-                        
+                                <div>
+                                    <button type="submit" class="btn btn-primary" id="submit">Submit</button>
+                                </div>
+                            </div>
+
+                            </form>
+
+                        </div>
+                        <br>
+
+                        <div class="footer">
+
+
 
                             <img src="/images/social_icons/behance.png">
                             <img src="/images/social_icons/dribble.png">
@@ -187,16 +189,16 @@
 
                             <p>DELANI STUDIO</p>
                             <P>2020</P>
-                        
+
+                        </div>
                     </div>
+
                 </div>
 
             </div>
-
         </div>
-    </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-    <script src="/js/script.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script src="/js/script.js"></script>
 </body>
 
 </html>

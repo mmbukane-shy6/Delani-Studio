@@ -12,6 +12,8 @@
 
 h1{
     color: white;
+    font-family: 'Karla', ;
+
 }
 
 h2{
@@ -91,7 +93,10 @@ p{
     border: 3px solid #fff
     
 }
-.portfolio .hover{display: hide;}
+.portfolio .hover{display: none;}
+#design, #dev, #product{
+    display: none;
+}
 
 
 
