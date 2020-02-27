@@ -28,9 +28,6 @@ Sheila Egeidza
 ### LIVE LINK
 *https://mmbukane-shy6.github.io/Delani-Studio/
 
-### LICENSE
-[LICENSE](/.LICENSE)
-
 ### CONTACT INFO
 
 *Email address:sheilaegeidza@gmail.com
