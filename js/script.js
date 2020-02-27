@@ -1,12 +1,12 @@
 $(document).ready(function () {
-//toggle
-    $(".design").click(function(){
+    //toggle
+    $(".design").click(function () {
         $("#design").toggle();
     });
-    $(".dev").click(function(){
+    $(".dev").click(function () {
         $("#dev").toggle();
     });
-    $(".product").click(function(){
+    $(".product").click(function () {
         $("#product").toggle();
     });
     //portfolio
@@ -35,7 +35,7 @@ $(document).ready(function () {
         $(".portfolio-4").hide();
     })
     $(".pic").mouseenter(function () {
-        $(".portfolio-5").show();
+        $(".portfolio-5").show();   
     })
     $(".pic").mouseleave(function () {
         $(".portfolio-5").hide();

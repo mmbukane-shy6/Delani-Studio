@@ -12,7 +12,7 @@ Sheila Egeidza
 *Must have a github account
 
 ### BDD
-<img src="./images/backgrounds/h_img.jpg"/>
+<img src="../images/backgrounds/h_img.jpg"/>
 
 ### TECHNOLOGY USED
 *HTML
@@ -27,6 +27,9 @@ Sheila Egeidza
 
 ### LIVE LINK
 *https://mmbukane-shy6.github.io/Delani-Studio/
+
+### LICENSE
+[LICENSE](/.LICENSE)
 
 ### CONTACT INFO
 
